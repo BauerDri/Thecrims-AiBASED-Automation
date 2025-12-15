@@ -20,3 +20,10 @@ Avaliable cheats.
 https://discord.gg/rJaf25dEDX
 
 Their ANTIBOT cant catch us, NEVER.!
+
+
+## About
+This project is a browser automation bot for the online game The Crims.
+Built with JavaScript and AI-based decision logic.
+
+Keywords: TheCrims, The Crims bot, browser automation, game automation
